@@ -11,3 +11,4 @@
 
 ##
 
+![Snake animation](https://github.com/DanzinNcs/DaniloNcs/blob/output/github-contribution-grid-snake.svg)
