@@ -11,4 +11,4 @@
 
 ##
 
-![Snake animation](https://github.com/DanzinNcs/DaniloNcs/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DanzinNcs/DanzinNcs/blob/output/github-contribution-grid-snake.svg)
