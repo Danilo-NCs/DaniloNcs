@@ -59,7 +59,7 @@ def mostrar():
                     produtos.append(produto)
                     produto = {}
             df = pd.DataFrame(produtos)
-            df.columns = df.columns.str.strip()
+            df.columns = df.columns.str.strip().str.lower()
             df.columns = df.columns.str.capitalize()
             
             df["Data"] = pd.to_datetime(df["Data"],errors="coerce")
@@ -109,6 +109,7 @@ def mostrar():
             st.warning("Nenhum endereço válido para mostrar no mapa")   
     else:
         st.warning("Nenhum dados cadastrado!")
+
 
 
 
