@@ -59,6 +59,9 @@ def mostrar():
                     produtos.append(produto)
                     produto = {}
             df = pd.DataFrame(produtos)
+            df.columns = df.columns.str.strip()
+            df.columns = df.columns.str.capitalize()
+            
             df["Data"] = pd.to_datetime(df["Data"],errors="coerce")
             return df
 
@@ -86,7 +89,7 @@ def mostrar():
         geolocalização = Nominatim(user_agent="Senatural_dashboard")
 
         def obter_coordenadas(row):
-            endereço = f'{row["Endereço"]},{row["Número"]}, {row["Cidade"]},{row["Estado"]},Brasil'
+            endereco = f'{row["Endereço"]},{row["Número"]}, {row["Cidade"]},{row["Estado"]},Brasil'
             try:
                 localizacao = geolocalização.geocode(endereço, timeout=10)
                 if localizacao:
@@ -106,3 +109,4 @@ def mostrar():
             st.warning("Nenhum endereço válido para mostrar no mapa")   
     else:
         st.warning("Nenhum dados cadastrado!")
+
