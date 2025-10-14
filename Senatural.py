@@ -54,7 +54,7 @@ def mostrar():
             st.error("Arquivo não encontrado")
             return pd.DataFrame()
 
-    df = carregar_dados("Produtos.txt")
+    df = carregar_dados("produtos.txt")
     if not df.empty:
         st.header("Tabela com os dados!")
         st.dataframe(df)
@@ -96,3 +96,4 @@ def mostrar():
             st.warning("Nnehum endereço válido para mostrar no mapa ")
     else:
         st.warning("Não existe nenhum dado cadastrado")
+
