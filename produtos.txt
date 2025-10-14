@@ -1,85 +1,140 @@
-Código: 440
-Nome: Barra Cereal
-Valor: 12.99
-Quantidade: 10
+Código: 745
+Nome: Barra de Cereal
+Valor: 7.00
+Quantidade: 5
 Categoria: Alimentos
-Descrição: Barra Cereal, 15 g de proteína
-Total: 129.90
-Data: 03/10/2025
-CEP: 60015000
-Número: 777
-Endereço: Avenida Washington Soares 
-Cidade: Fortaleza
-Estado: CE
---------------------------------------------
-Código: 333
-Nome: Creatina
-Valor: 119.00
-Quantidade: 10
-Categoria: Suplementos
-Descrição: Creatina 250g Growth
-Total: 1190.00
-Data: 10/03/2025
+Descrição: Barra de Cereal com aveia 200g
+Total: 35.00
+Data: 04/10/2025
 CEP: 60341020
-Número: 124
-Endereço: Avenida Heróis do Acre
-Cidade: Fortaleza
-Estado: CE
--------------------------------------------
-Código: 457
-Nome: Shake Emagrecedor 
-Valor: 49.99
-Quantidade: 10
-Categoria: Bebidas
-Descrição: Shake Emagrecedor, 25ml
-Total: 499.9
-Data: 10/09/2025
-CEP: 60135228
-Número: 675
-Endereço: Rua Matadouro
+Número: 455
+Endereço: Rua Eretides Alencar
 Cidade: Fortaleza
 Estado: CE
 ----------------------------------------
-Código: 557
-Nome: Termogênico
-Valor: 49.99
+Código: 7554
+Nome: Creatina
+Valor: 90.00
+Quantidade: 4
+Categoria: Suplemento
+Descrição: Creatina 100% da Growth
+Total: 360.00
+Data: 07/10/2025
+CEP: 60411170
+Número: 122
+Endereço: Rua Napoleão Laureano
+Cidade: Fortaleza
+Estado: CE
+----------------------------------------
+Código: 6554
+Nome: Whey Protein
+Valor: 120.00
+Quantidade: 2
+Categoria: Suplemento
+Descrição: Whey Protein, 1kg Integral
+Total: 240.00
+Data: 23/09/2025
+CEP: 60135228
+Número: 788
+Endereço: Rua Lívio Barreto
+Cidade: Fortaleza
+Estado: CE
+----------------------------------------
+Código: 9660
+Nome: Shake Emagrecedor 200ml
+Valor: 27.00
 Quantidade: 10
-Categoria: Suplementos
-Descrição: Termogênico 
-250mg de cafeína
-Total: 499.90
-Data: 09/10/2025
+Categoria: Bebidas
+Descrição: Shake Emagrecedor Papa Capim
+Total: 270.00
+Data: 30/09/2025
 CEP: 61769240
-Número: 534
-Endereço: Rua Desembargador Otacílio Peixoto
+Número: 744
+Endereço: Rua José Bento
 Cidade: Eusébio
 Estado: CE
 ----------------------------------------
-Código: 897
-Nome: Garrafa
-Valor: 2.00
-Quantidade: 1
-Categoria: Outros
-Descrição: Garrafa Pet
-Total: 2.00
-Data: 07/10/2025
+Código: 655
+Nome: Termogêncio
+Valor: 80.00
+Quantidade: 2
+Categoria: Suplemento
+Descrição: Aumenta a produção de calor no corpo (termogênese), acelerando o metabolismo e a queima de calorias
+Total: 160.00
+Data: 28/06/2025
 CEP: 60861098
-Número: 770
+Número: 7788
+Endereço: Rua Santana da Parnaíba
+Cidade: Fortaleza
+Estado: CE
+----------------------------------------
+Código: 1002
+Nome: Garrafa
+Valor: 9.90
+Quantidade: 5
+Categoria: Outros
+Descrição: Garrafa de Treino 
+Total: 49.50
+Data: 18/03/2025
+CEP: 60430440
+Número: 883
+Endereço: Rua João Sorongo
+Cidade: Fortaleza
+Estado: CE
+----------------------------------------
+Código: 0556
+Nome: YoPro
+Valor: 13.00
+Quantidade: 28
+Categoria: Bebidas
+Descrição: Bebida láctea, indicados principalmente para praticantes de atividades físicas.
+Total: 364.00
+Data: 09/05/2025
+CEP: 60541242
+Número: 9009
 Endereço: Rua Sousa Carvalho
 Cidade: Fortaleza
 Estado: CE
 ----------------------------------------
-Código: 870
-Nome: Yopro
-Valor: 16.00
-Quantidade: 1
+Código: 8809
+Nome: Sanduiche Natural
+Valor: 15.00
+Quantidade: 15
+Categoria: Alimentos
+Descrição: Sanduíche Natural de Frango 
+Total: 225.00
+Data: 20/09/2025
+CEP: 60721000
+Número: 4332
+Endereço: Rua Frei Serafim
+Cidade: Fortaleza
+Estado: CE
+----------------------------------------
+Código: 8809
+Nome: Sanduiche Natural
+Valor: 15.00
+Quantidade: 15
+Categoria: Alimentos
+Descrição: Sanduíche Natural de Frango 
+Total: 225.00
+Data: 18/09/2025
+CEP: 60721000
+Número: 4332
+Endereço: Rua Frei Serafim
+Cidade: Fortaleza
+Estado: CE
+----------------------------------------
+Código: 757575
+Nome: Chá 
+Valor: 10.00
+Quantidade: 5
 Categoria: Bebidas
-Descrição: Yopro 250ml 
-Total: 16.00
-Data: 02/10/2025
-CEP: 60430440
-Número: 860
-Endereço: Rua Santana da Parnaíba
+Descrição: Chá Ervas Verdes
+Total: 50.00
+Data: 06/04/2025
+CEP: 60170001
+Número: 888
+Endereço: Avenida Desembargador Moreira
 Cidade: Fortaleza
 Estado: CE
 ----------------------------------------
